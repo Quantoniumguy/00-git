@@ -23,3 +23,10 @@ passwords.txt
 build/
 *.JPG
 ```
+
+## Ramas/branches
+
+```bash
+git checkout -b NOMBRE RAMA NUEVA
+ls
+``` 
